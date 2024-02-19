@@ -1,3 +1,2 @@
-# web_static 
-Ilyass FAKHTAOUI
+# web_static
 I have not done the advanced tasks
