@@ -1,2 +1,3 @@
 # web_static 
-I have not done task number 11 and 12
+Ilyass FAKHTAOUI
+I have not done the advanced tasks

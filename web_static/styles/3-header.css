@@ -3,9 +3,12 @@ header {
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
-    background-image: url(../images/logo.png);
-    background-repeat: no-repeat;
 }
-header.logo {
+
+.logo {
+    background-image: url('../images/logo.png');
+    background-repeat: no-repeat;
+    height: 70px;
+    width: 100%;
     margin-left: 20px;
 }
